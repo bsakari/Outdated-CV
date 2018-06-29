@@ -1,0 +1,143 @@
+.row
+{
+	margin-top: 20px;
+}
+.left
+{
+	background: #1e2531;
+	color: white;
+	margin-left: 10%;
+	width: 20%;
+	float: left;
+	clear: both;
+
+}
+
+.right
+{
+	margin-right: 10%;
+	width: 60%;
+	float: right;
+}
+.lec
+{
+	margin-bottom: 20PX;
+	font-weight: bold;
+}
+
+
+.info
+{
+	background-color: #00001a;
+	clear: both;
+}
+
+.pinfo
+{
+	color: white;
+	padding: 0px;
+	margin-left: 20px;
+}
+
+
+.sbttl
+{
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-left: 20px;
+}
+
+.ttlDesc
+{
+	font-size: 1em;
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+.sklDesc
+{
+	font-size: 1.2em;
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+
+.progress {
+  margin-left: 20px;
+  width: 88%;
+  height: 10px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background-color: #00001a; /*changed here*/
+  /*border-radius: 4px;*/
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+          box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+}
+
+.rate
+{
+	float: right;
+	margin-right: 14px;
+	margin-bottom: 50px;
+}
+
+
+.rate1
+{
+	float: right;
+	margin-right: 14px;
+}
+
+.name
+{
+
+	margin-left: 20px;
+}
+
+
+.experince
+{
+	font-size: 2em;
+	font-weight: bold;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	border-top: solid 2px #bfbfbf;
+	border-bottom: solid 2px #bfbfbf;
+	width: 100%;
+	border-bottom-width: 3px;
+}
+
+.time
+{
+	margin-left: 20px;
+	margin-top: 20px;	
+	font-weight: normal;
+	font-size: 1.2em;
+}
+.labelLec
+{
+	font-size: 1.8em;
+	font-weight: normal;
+	margin-left: 20px;
+}
+.exp
+{
+	margin-left: 18%;
+	font-size: 1.3em;
+}
+
+.exp1
+{
+	margin-left: 17%;
+	font-size: 1.5em;
+	list-style: none;
+}
+
+.exp2
+{
+	margin-left: 17%;
+	font-size: 1.5em;
+	list-style: none;
+	margin-top: 10px;
+}
