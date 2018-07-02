@@ -10,14 +10,16 @@
 	width: 20%;
 	float: left;
 	clear: both;
+	height: 240%;
 
 }
 
 .right
 {
 	margin-right: 10%;
-	width: 60%;
+	width: 50%;
 	float: right;
+	height: 240%;
 }
 .lec
 {
@@ -140,4 +142,10 @@
 	font-size: 1.5em;
 	list-style: none;
 	margin-top: 10px;
+}
+
+
+.p
+{
+	margin-left: 23%;
 }
