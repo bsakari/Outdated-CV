@@ -95,6 +95,10 @@
 
 	margin-left: 20px;
 }
+.scroll
+{
+	overflow: scroll;
+}
 
 
 .experince
