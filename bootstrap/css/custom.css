@@ -97,7 +97,7 @@
 }
 .scroll
 {
-	overflow: scroll;
+	overflow: auto;
 }
 
 
