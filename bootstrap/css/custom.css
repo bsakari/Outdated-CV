@@ -10,7 +10,7 @@
 	width: 20%;
 	float: left;
 	clear: both;
-	height: 150%;
+	height: 145%;
 
 }
 
@@ -95,10 +95,7 @@
 
 	margin-left: 20px;
 }
-.scroll
-{
-	overflow: auto;
-}
+
 
 
 .experince
